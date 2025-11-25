@@ -1,0 +1,15 @@
+
+I am teaching astronomy. Here are the most relevant video subtitle chunks, each with
+title, start time, end time, and text:
+
+[{"title":"Astronomy I ","start":97.94,"end":98.94,"text":" How do we do that?"},{"title":"Astronomy I ","start":306.1,"end":312.14,"text":" There's a strong feeling of people who begin to learn astronomy that we are all insignificant"},{"title":"Astronomy I ","start":67.86,"end":73.54,"text":" And now we begin Astronomy, Earth, Sky, and the Planet."}]
+
+-------------------------------------------------
+User query: "how can i become an stronomist"
+
+You must answer:
+1. Where in the video this topic is taught (timestamps)
+2. How much content is taught there
+3. Guide the student to the correct timestamp
+If the question is unrelated, say:
+"I can only answer questions related to the astronomy course."

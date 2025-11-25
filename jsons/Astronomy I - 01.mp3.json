@@ -1,0 +1,3851 @@
+{
+    "chunks": [
+        {
+            "title": "Astronomy I ",
+            "start": 0.0,
+            "end": 5.42,
+            "text": " Welcome to the Modern Scholar, where great professors teach you."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 5.42,
+            "end": 8.5,
+            "text": " My name is George Wilson, and I'll be your host."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 8.5,
+            "end": 13.5,
+            "text": " Today we begin, of course, entitled Astronomy, Earth, Sky, and the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 13.5,
+            "end": 14.84,
+            "text": " Planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 14.84,
+            "end": 18.94,
+            "text": " Your professor is James B. Kailer, Professor Emeritus of Astronomy"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 18.94,
+            "end": 22.7,
+            "text": " at the University of Illinois at Urbana, Champaign."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 22.7,
+            "end": 25.7,
+            "text": " He received his Bachelor of Arts in Astronomy from the University"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 25.7,
+            "end": 32.98,
+            "text": " of Michigan in 1960, and his PhD from UCLA in 1964, and has been at"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 32.98,
+            "end": 34.66,
+            "text": " Illinois ever since."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 34.66,
+            "end": 38.5,
+            "text": " He has held both Fulbright and Guggenheim Fellowships."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 38.5,
+            "end": 44.019999999999996,
+            "text": " A Planetarium show based on his life and work plays in small planetaria"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 44.019999999999996,
+            "end": 46.739999999999995,
+            "text": " around the world."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 46.739999999999995,
+            "end": 50.739999999999995,
+            "text": " For more information on this lecture, please visit the courses web page"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 50.74,
+            "end": 58.46,
+            "text": " at www.modernscholar.com, where you'll have access to links to related"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 58.46,
+            "end": 63.86,
+            "text": " sites, a seminar room to share your thoughts with other students, and, yes,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 63.86,
+            "end": 67.86,
+            "text": " of course, a final exam."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 67.86,
+            "end": 73.54,
+            "text": " And now we begin Astronomy, Earth, Sky, and the Planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 73.54,
+            "end": 81.10000000000001,
+            "text": " In lecture one, we and the universe, and now Professor Kailer."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 81.10000000000001,
+            "end": 84.34,
+            "text": " We are looking outward from an astronomical body."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 84.34,
+            "end": 87.66000000000001,
+            "text": " We are one planet of many in our planetary system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 87.66000000000001,
+            "end": 90.82000000000001,
+            "text": " Maybe one planet of hundreds, maybe millions in our galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 90.82000000000001,
+            "end": 92.82000000000001,
+            "text": " We still do not know."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 92.82000000000001,
+            "end": 94.5,
+            "text": " We need to understand our own Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 94.5,
+            "end": 96.30000000000001,
+            "text": " We can't experiment on Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 96.30000000000001,
+            "end": 97.94000000000001,
+            "text": " We would like to understand our Earth better."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 97.94000000000001,
+            "end": 98.94000000000001,
+            "text": " How do we do that?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 98.94000000000001,
+            "end": 102.74000000000001,
+            "text": " We understand our Earth better by looking at the other planets, and getting some"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 102.74,
+            "end": 106.58,
+            "text": " idea of what they're like, and why they are as they are, and feeding that"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 106.58,
+            "end": 112.38,
+            "text": " information back to understand our own precious planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 112.38,
+            "end": 115.61999999999999,
+            "text": " The stars have a great deal to do with us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 115.61999999999999,
+            "end": 118.58,
+            "text": " We live because of sunlight upon the Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 118.58,
+            "end": 124.46,
+            "text": " We live because the sun is a stable star that will shine for billions of years into"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 124.46,
+            "end": 125.94,
+            "text": " the future."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 125.94,
+            "end": 129.7,
+            "text": " Not only that, the sun reaches out and touches with its matter, with a wind that"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 129.7,
+            "end": 134.26,
+            "text": " blows, that hits us, forms the Northern Lights."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 134.26,
+            "end": 136.45999999999998,
+            "text": " Perhaps deposits more energy into the Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 136.45999999999998,
+            "end": 139.29999999999998,
+            "text": " We came from out there."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 139.29999999999998,
+            "end": 142.26,
+            "text": " All of what is out there fed back into us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 142.26,
+            "end": 148.26,
+            "text": " We came from out there because of the accumulation of material from the galaxy that wound up forming"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 148.26,
+            "end": 150.62,
+            "text": " our sun and forming our planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 150.62,
+            "end": 152.7,
+            "text": " We are children of the galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 152.7,
+            "end": 154.26,
+            "text": " We are not isolated."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 154.26,
+            "end": 158.82,
+            "text": " If we are to understand our Earth at all, we have to understand our environment."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 158.82,
+            "end": 162.85999999999999,
+            "text": " And that means not just near space, the inner part of the Earth, it means understanding"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 162.85999999999999,
+            "end": 166.94,
+            "text": " the moon, it means understanding the planets, and the origin of all of this system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 166.94,
+            "end": 170.14,
+            "text": " And that is what this course is really all about."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 170.14,
+            "end": 174.42,
+            "text": " Let me tell you a little about what we're going to do, or the course of these 14 lectures."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 174.42,
+            "end": 178.82,
+            "text": " We're going to start with the Earth, with the rotating Earth, with the Earth going around"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 178.82,
+            "end": 183.06,
+            "text": " the sun, so we can get some idea of how things appear to move in the sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 183.06,
+            "end": 185.82,
+            "text": " Why the stars rise in the east and set in the west."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 185.82,
+            "end": 188.62,
+            "text": " Why the sun appears to move against the background of the stars?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 188.62,
+            "end": 190.34,
+            "text": " Why the seasons exist?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 190.34,
+            "end": 191.9,
+            "text": " We're going to look at inner space."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 191.9,
+            "end": 194.42000000000002,
+            "text": " We're going to look at the atoms that construct everything."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 194.42000000000002,
+            "end": 199.18,
+            "text": " We're going to look at the light that allows us to learn something about the natures, the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 199.18,
+            "end": 202.86,
+            "text": " compositions, and even the origins of the planets that are out there."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 202.86,
+            "end": 206.9,
+            "text": " We're going to begin to look at the physical natures of the planets from the Earth, through"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 206.9,
+            "end": 212.1,
+            "text": " the moon, beginning and sweeping through the planetary system from Mercury on out all"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 212.1,
+            "end": 215.1,
+            "text": " the way to the distant planet Pluto."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 215.1,
+            "end": 217.22,
+            "text": " Then begin to look at the debris of the system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 217.22,
+            "end": 223.54,
+            "text": " Finally, at the end, in lecture 14, put it all together and see how it was all made, and"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 223.54,
+            "end": 229.78,
+            "text": " see how our Earth was created, and why our Earth is so special within this marvelous planetary"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 229.78,
+            "end": 230.78,
+            "text": " system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 230.78,
+            "end": 232.98,
+            "text": " Let's take a look at the planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 232.98,
+            "end": 236.74,
+            "text": " Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 236.74,
+            "end": 239.94,
+            "text": " Most school kids learn these things in order."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 239.94,
+            "end": 244.34,
+            "text": " That gives you the idea that all the planets are the same, that they're all like, and they"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 244.66,
+            "end": 246.66,
+            "text": " are all natural experiments."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 246.66,
+            "end": 250.66,
+            "text": " By looking at the other planets, we can tell something about ourselves."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 250.66,
+            "end": 254.62,
+            "text": " They are all formed under different conditions and different distances from the Sun, different"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 254.62,
+            "end": 256.7,
+            "text": " sizes, different masses."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 256.7,
+            "end": 260.94,
+            "text": " In an experimental science, you go into the lab, you change, you tweak the inputs, see"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 260.94,
+            "end": 262.42,
+            "text": " what happens to the output."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 262.42,
+            "end": 263.54,
+            "text": " We can't do that to the Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 263.54,
+            "end": 268.22,
+            "text": " We don't want to do that to the Earth, but nature's given us several other experiments"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 268.22,
+            "end": 269.98,
+            "text": " that we can use."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 269.98,
+            "end": 271.38,
+            "text": " We can see what happens to Mercury."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 271.38,
+            "end": 272.66,
+            "text": " Why is Mercury the way it is?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 272.70000000000005,
+            "end": 274.62,
+            "text": " Why is Pluto the way it is?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 274.62,
+            "end": 276.70000000000005,
+            "text": " What conditions have changed them?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 276.70000000000005,
+            "end": 281.1,
+            "text": " And that leads us back once more into understanding ourselves."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 281.1,
+            "end": 286.3,
+            "text": " So look at the planets now and order outward from the Sun in a little bit more detail."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 286.3,
+            "end": 291.62,
+            "text": " We will keep increasing the detail until we begin to understand them better and better."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 291.62,
+            "end": 296.46000000000004,
+            "text": " Mercury, Venus, Earth, Mars, they're all rather similar."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 296.46000000000004,
+            "end": 299.06,
+            "text": " They're all made out of rock and metal."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 299.06,
+            "end": 300.54,
+            "text": " They're unusual bodies."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 300.54,
+            "end": 306.1,
+            "text": " We know of no other bodies in the universe quite like ours."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 306.1,
+            "end": 312.14000000000004,
+            "text": " There's a strong feeling of people who begin to learn astronomy that we are all insignificant"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 312.14000000000004,
+            "end": 317.22,
+            "text": " on this little rock way out on the edge of a anonymous galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 317.22,
+            "end": 321.3,
+            "text": " And one of the other themes at this course is that that is simply not true."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 321.3,
+            "end": 327.38,
+            "text": " We're in a very special place on a very special body, a very unusual one that is unlike anything"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 327.38,
+            "end": 329.74,
+            "text": " else that we know anywhere."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 329.74,
+            "end": 335.58,
+            "text": " Mercury, Venus, Earth, Mars, the terrestrial planets, after Terra, ourselves, we're all similar."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 335.58,
+            "end": 337.5,
+            "text": " Yet we're all different, we're all individuals."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 337.5,
+            "end": 341.3,
+            "text": " And I don't mind throwing the moon into that as well, making five terrestrial planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 341.3,
+            "end": 344.98,
+            "text": " If you were walking on the moon, you would feel very much like you're walking on the Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 344.98,
+            "end": 349.22,
+            "text": " Little lighter, you'd bounce around a little bit more because the body is less massive"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 349.22,
+            "end": 350.22,
+            "text": " than we are."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 350.22,
+            "end": 353.98,
+            "text": " But if it looks like a planet, it feels like a planet as they said about the duck, you know,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 353.98,
+            "end": 355.94,
+            "text": " if it quacks like the duck, it's probably a duck."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 355.94,
+            "end": 357.06,
+            "text": " And that's what we have here."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 357.06,
+            "end": 359.26,
+            "text": " If it looks like a planet, it's probably a planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 359.26,
+            "end": 361.53999999999996,
+            "text": " So let's count the moon in on that as well."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 361.53999999999996,
+            "end": 366.21999999999997,
+            "text": " So now we've got five in the inner part of the planetary system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 366.21999999999997,
+            "end": 368.42,
+            "text": " And then you look out farther."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 368.42,
+            "end": 373.92,
+            "text": " And you see these two giants, Jupiter and Saturn, enormous bodies that are terribly similar"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 373.92,
+            "end": 375.12,
+            "text": " to each other."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 375.12,
+            "end": 380.09999999999997,
+            "text": " Jupiter, Saturn, Uranus, and Neptune are often put together as the Jovian planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 380.09999999999997,
+            "end": 382.02,
+            "text": " That's really not quite true."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 382.02,
+            "end": 384.02,
+            "text": " Jupiter and Saturn are very similar to each other."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 384.02,
+            "end": 390.09999999999997,
+            "text": " But we say about one, you can pretty much rely on being true about the other."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 390.09999999999997,
+            "end": 394.7,
+            "text": " Giant bodies, ten or more times the size of the Earth and dimension."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 394.7,
+            "end": 399.09999999999997,
+            "text": " And then you move out farther to Uranus and Neptune."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 399.09999999999997,
+            "end": 400.41999999999996,
+            "text": " And they're smaller."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 400.41999999999996,
+            "end": 402.29999999999995,
+            "text": " They're very different from Jupiter and Saturn."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 402.29999999999995,
+            "end": 403.82,
+            "text": " They're rather unusual bodies."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 403.82,
+            "end": 405.62,
+            "text": " And they're our own, we don't understand them very well."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 405.62,
+            "end": 409.29999999999995,
+            "text": " In fact, we understand things less and less, really, the farther away we get."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 409.29999999999995,
+            "end": 410.9,
+            "text": " So now we've got three kinds of planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 410.9,
+            "end": 413.5,
+            "text": " We've got the five in the inner solar system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 413.5,
+            "end": 415.26,
+            "text": " We've got the two giants a little farther out."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 415.26,
+            "end": 418.26,
+            "text": " And then we've got Uranus and Neptune, which are farther out yet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 418.26,
+            "end": 422.38,
+            "text": " And then there's a little Pluto about which everybody argues."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 422.38,
+            "end": 423.38,
+            "text": " Is it a planet?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 423.38,
+            "end": 424.38,
+            "text": " Is it not a planet?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 424.38,
+            "end": 425.85999999999996,
+            "text": " One of the most common questions I get from people."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 425.85999999999996,
+            "end": 426.85999999999996,
+            "text": " Is it a planet?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 426.85999999999996,
+            "end": 428.53999999999996,
+            "text": " People seem to be very concerned about the fact."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 428.53999999999996,
+            "end": 433.65999999999997,
+            "text": " Well, in some ways it is, yes, and you can, in some ways, maybe we should exclude it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 433.65999999999997,
+            "end": 435.14,
+            "text": " I kind of like to include it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 435.14,
+            "end": 437.06,
+            "text": " So now we've got ten planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 437.06,
+            "end": 438.62,
+            "text": " We threw it out and we threw that in the moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 438.62,
+            "end": 439.62,
+            "text": " We'd have eight."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 439.62,
+            "end": 442.3,
+            "text": " And there's no strict definition."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 442.3,
+            "end": 444.42,
+            "text": " And that gives us a lot more freedom."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 444.42,
+            "end": 448.5,
+            "text": " And then we can take the little bodies in between Mars and Jupiter that everybody's heard"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 448.5,
+            "end": 452.06,
+            "text": " about, or maybe read about science fiction stories, the asteroids."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 452.06,
+            "end": 453.22,
+            "text": " We could collect them all together."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 453.22,
+            "end": 456.38,
+            "text": " We could call them a planet too if we really wanted to."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 456.38,
+            "end": 457.66,
+            "text": " And that gives us 11."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 457.66,
+            "end": 460.34000000000003,
+            "text": " So the definition is free and floating."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 460.34000000000003,
+            "end": 463.38,
+            "text": " And I'll continue to use it free and floating."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 463.38,
+            "end": 468.58,
+            "text": " Remember when you were in first grade, maybe fourth grade, elementary school in the teacher"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 468.58,
+            "end": 474.06,
+            "text": " head, your classroom had this panel up on the wall of the planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 474.06,
+            "end": 478.97999999999996,
+            "text": " It's a huge sun and the big planets all in a line outward from the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 478.97999999999996,
+            "end": 481.38,
+            "text": " I hate to tell you this, but they lied."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 481.38,
+            "end": 482.38,
+            "text": " It's not true."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 482.38,
+            "end": 484.21999999999997,
+            "text": " It's not the way they look."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 484.21999999999997,
+            "end": 489.94,
+            "text": " We have to deal with scale in this business."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 489.94,
+            "end": 497.09999999999997,
+            "text": " And it's important at the outset that we try to set the sizes of these planets in the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 497.1,
+            "end": 501.18,
+            "text": " context of the distances between them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 501.18,
+            "end": 507.46000000000004,
+            "text": " Because almost everything is empty space, or at least filled with empty, nothing is truly"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 507.46000000000004,
+            "end": 508.98,
+            "text": " empty, of course."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 508.98,
+            "end": 514.94,
+            "text": " But the separations between things in astronomy are enormous compared to their sizes, a truly,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 514.94,
+            "end": 521.14,
+            "text": " truly underappreciated fact that is rendered a falsehood by the cartoon images that you"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 521.14,
+            "end": 523.46,
+            "text": " generally see in classrooms."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 523.46,
+            "end": 528.7,
+            "text": " And sometimes we really have no choice because it would be impossible actually to draw a scale"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 528.7,
+            "end": 531.22,
+            "text": " model of the solar system in a classroom."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 531.22,
+            "end": 535.38,
+            "text": " By the time you make the sun big enough to see, or the separations big enough, the earth"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 535.38,
+            "end": 537.9000000000001,
+            "text": " is so small, you'd need a microscope to see it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 537.9000000000001,
+            "end": 542.7800000000001,
+            "text": " So let's really start this particular lecture off after this introductory material."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 542.7800000000001,
+            "end": 548.0600000000001,
+            "text": " By trying to put things into some kind of scale and into some kind of context, the sun"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 548.0600000000001,
+            "end": 551.74,
+            "text": " is by far the biggest body in the whole planetary system and the whole solar system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 551.74,
+            "end": 554.46,
+            "text": " It is called the solar system for a reason."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 554.46,
+            "end": 556.54,
+            "text": " The planets are the satellites of the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 556.54,
+            "end": 559.62,
+            "text": " They're the moons of the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 559.62,
+            "end": 561.22,
+            "text": " The sun dominates everything."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 561.22,
+            "end": 567.14,
+            "text": " Thousand times more matter in it than all of the rest of the planetary system put together."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 567.14,
+            "end": 572.94,
+            "text": " It's almost a million miles across, one and a half million kilometers across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 572.94,
+            "end": 576.54,
+            "text": " It's mass is 300,000 times that of the earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 576.54,
+            "end": 581.58,
+            "text": " It's a thousand times more massive than the largest of the planets Jupiter."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 581.58,
+            "end": 585.86,
+            "text": " They're separated from the sun by about 100 solar diameters."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 585.86,
+            "end": 590.3000000000001,
+            "text": " The distance between us and the sun is a standard unit, which I'm going to refer to a lot."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 590.3000000000001,
+            "end": 594.46,
+            "text": " And I'll try to remind you of it often on as we proceed through the course."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 594.46,
+            "end": 600.62,
+            "text": " Standard unit called the astronomical unit, with a capital A and a capital U, the AU."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 600.62,
+            "end": 602.5400000000001,
+            "text": " It's 93 million miles."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 602.5400000000001,
+            "end": 605.22,
+            "text": " It's the average distance between the earth and the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 605.22,
+            "end": 608.1,
+            "text": " Average, yes, the distance between the earth and the sun does change a little bit."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 608.1,
+            "end": 609.66,
+            "text": " It has no effect on us at all."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 609.66,
+            "end": 611.94,
+            "text": " No effect on the seasons as you see later."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 611.94,
+            "end": 614.46,
+            "text": " But it is a minor change by a few percent."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 614.46,
+            "end": 618.94,
+            "text": " So we use the average and call that the astronomical unit."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 618.94,
+            "end": 623.14,
+            "text": " 93 million miles, almost exactly 150 million kilometers."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 623.14,
+            "end": 626.1800000000001,
+            "text": " And then we scale everything else to the astronomical unit."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 626.1800000000001,
+            "end": 629.78,
+            "text": " It's the fundamental distance unit that is used in all of astronomy, not just from the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 629.78,
+            "end": 634.98,
+            "text": " planetary system, but ultimately through distances to the stars, distances to the most"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 634.98,
+            "end": 637.1,
+            "text": " distant galaxies."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 637.1,
+            "end": 642.02,
+            "text": " And the distance is out and we can get pretty boring just listing all statistics."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 642.02,
+            "end": 645.02,
+            "text": " So we'll try not to do that too terribly much."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 645.02,
+            "end": 649.26,
+            "text": " Mercury is 4 tenths of an AU out, Venus is 7 tenths of an AU out."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 649.26,
+            "end": 654.26,
+            "text": " So we're kind of nice and symmetrical, 0.4.7 and then us at 1.0."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 654.26,
+            "end": 656.86,
+            "text": " And then Mars out at around 1.5."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 656.86,
+            "end": 659.86,
+            "text": " And close into us, the earth is something of a double planet really."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 659.86,
+            "end": 663.1,
+            "text": " We have the earth and the moon and the moon is a quarter of a million miles away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 663.1,
+            "end": 665.5,
+            "text": " We won't even deal with that in terms of the astronomical unit."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 665.5,
+            "end": 666.5,
+            "text": " It's very close."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 666.5,
+            "end": 670.9,
+            "text": " And it's kind of interesting thing when we look at all these distances and we are so proud"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 670.9,
+            "end": 673.38,
+            "text": " of ourselves for getting from here to the moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 673.38,
+            "end": 674.54,
+            "text": " That's all we've gotten."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 674.54,
+            "end": 677.02,
+            "text": " One quarter of a million miles, that's it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 677.02,
+            "end": 679.66,
+            "text": " The sun is almost 100 million miles away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 679.66,
+            "end": 686.14,
+            "text": " The earth is as large as it seems to a human being is a terribly small body."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 686.14,
+            "end": 691.3,
+            "text": " 8,000 miles wide, 13,000 kilometers wide."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 691.3,
+            "end": 694.1,
+            "text": " It's only 100th the size of the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 694.1,
+            "end": 698.86,
+            "text": " The sun is 109 times, actually, if you want the real numbers, 109 times the diameter of"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 698.86,
+            "end": 700.14,
+            "text": " the earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 700.14,
+            "end": 702.98,
+            "text": " The sun is 1-100th of an astronomical unit across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 702.98,
+            "end": 707.5400000000001,
+            "text": " That makes the earth 110,000th of an astronomical unit across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 707.5400000000001,
+            "end": 713.38,
+            "text": " If you had the earth of marble, say 1 centimeter marble about this big, the sun would be a wagon"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 713.38,
+            "end": 715.38,
+            "text": " wheel about a football field away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 715.38,
+            "end": 718.62,
+            "text": " And you'd see it off there in the great distance."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 718.62,
+            "end": 721.7,
+            "text": " Let's use the scale for a little while and we'll start looking at where the other planets"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 721.7,
+            "end": 726.0200000000001,
+            "text": " are because where Pluto is, you couldn't even see it to be so distant, even on this scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 726.0200000000001,
+            "end": 730.6600000000001,
+            "text": " And eventually we'll have to shrink down the scale to even begin to put the galaxy on"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 730.6600000000001,
+            "end": 733.82,
+            "text": " our home, our collection of stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 733.82,
+            "end": 737.4200000000001,
+            "text": " From here on out, we go to Mars at one and a half astronomical units."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 737.4200000000001,
+            "end": 740.1800000000001,
+            "text": " And then we make a tremendous jump to Jupiter."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 740.1800000000001,
+            "end": 744.82,
+            "text": " It's five astronomical units away, five times farther than we are from the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 744.82,
+            "end": 751.1400000000001,
+            "text": " And on our earth is a scale of about this big, Jupiter would be about the size of a good"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 751.14,
+            "end": 754.9399999999999,
+            "text": " size softball, perhaps a little bit larger."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 754.9399999999999,
+            "end": 760.98,
+            "text": " Located is 500 million miles from the sun, five astronomical units away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 760.98,
+            "end": 763.86,
+            "text": " That's five football fields away if you like on this scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 763.86,
+            "end": 769.3,
+            "text": " And then we make a tremendous jump out to 10 astronomical units to see Saturn."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 769.3,
+            "end": 770.9,
+            "text": " And then we make a farther jump out."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 770.9,
+            "end": 774.78,
+            "text": " We almost double it again to 19 to get to Uranus."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 774.78,
+            "end": 777.58,
+            "text": " We just keep going farther and farther away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 777.58,
+            "end": 781.86,
+            "text": " Now we're taking ourselves all the way out to Neptune, which is 30 astronomical units"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 781.86,
+            "end": 785.5,
+            "text": " away, which some people think is the sort of the end of the planetary system because"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 785.5,
+            "end": 788.58,
+            "text": " again Pluto sometimes is included, sometimes it isn't."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 788.58,
+            "end": 793.5400000000001,
+            "text": " It's a curious, strange transition body that is eventually going to tell us a great deal"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 793.5400000000001,
+            "end": 796.82,
+            "text": " about the planetary system if we can ever get to it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 796.82,
+            "end": 800.22,
+            "text": " It's the only planet we have not yet visited by spacecraft."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 800.22,
+            "end": 804.0200000000001,
+            "text": " We will eventually, it's a long, long journey."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 804.02,
+            "end": 807.74,
+            "text": " It's about 10 years for spacecraft to get out there from here."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 807.74,
+            "end": 810.98,
+            "text": " Moving even fast enough to break free of the gravitational field of the Earth and the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 810.98,
+            "end": 812.5799999999999,
+            "text": " gravitational field of the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 812.5799999999999,
+            "end": 816.8199999999999,
+            "text": " So it can float forever out there, moving off into the galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 816.8199999999999,
+            "end": 819.9,
+            "text": " Pluto average is 40 astronomical units away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 819.9,
+            "end": 822.78,
+            "text": " Now there's a lot of consistency in these planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 822.78,
+            "end": 827.18,
+            "text": " They all go around the Sun in pretty circular orbits."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 827.18,
+            "end": 832.54,
+            "text": " The Earth, quite circular, a couple that are a little bit off center Mercury and Mars,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 832.54,
+            "end": 833.9,
+            "text": " not terribly much."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 833.9,
+            "end": 836.2199999999999,
+            "text": " Pluto is way off center."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 836.2199999999999,
+            "end": 840.98,
+            "text": " It goes from the orbit of Neptune all the way to 50 astronomical units out."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 840.98,
+            "end": 846.78,
+            "text": " One of the things that we thought makes it not quite in the same category as the rest"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 846.78,
+            "end": 847.78,
+            "text": " of the planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 847.78,
+            "end": 849.62,
+            "text": " It's also highly tilted orbit."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 849.62,
+            "end": 854.5,
+            "text": " It takes us out to the outer fringe of the planetary system where we find an enormous"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 854.5,
+            "end": 857.74,
+            "text": " number of icy bodies that are called comets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 857.74,
+            "end": 861.3399999999999,
+            "text": " There is a lot of misconception in this business."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 861.34,
+            "end": 864.9,
+            "text": " And people are constantly confusing comets with meteors."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 864.9,
+            "end": 869.98,
+            "text": " Meteor is a small rock, actually a little asteroid for the most horror or a little piece"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 869.98,
+            "end": 872.1,
+            "text": " of comet fluff, as we'll see."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 872.1,
+            "end": 874.86,
+            "text": " That hits the Earth's atmosphere and goes streaking across the sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 874.86,
+            "end": 877.1,
+            "text": " Comets do not go streaking across the sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 877.1,
+            "end": 880.94,
+            "text": " They're orbiting bodies that orbit the Sun on long, skinny orbits to take them way"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 880.94,
+            "end": 884.7800000000001,
+            "text": " out to the outer part of the planetary system and then close to the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 884.7800000000001,
+            "end": 886.62,
+            "text": " They're made mostly out of ice."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 886.62,
+            "end": 892.1,
+            "text": " We have found and can see now a huge reservoir of these cometary bodies out beyond the orbit"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 892.1,
+            "end": 893.1,
+            "text": " of Pluto."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 893.1,
+            "end": 897.62,
+            "text": " In fact many of them share the orbit of Pluto, which means that we could put Pluto out there"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 897.62,
+            "end": 901.78,
+            "text": " in this band of icy bodies, which actually has a name."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 901.78,
+            "end": 906.58,
+            "text": " It's called the Kuiper Belt, after Gerard Kuiper, an astronomer of the mid-20th century,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 906.58,
+            "end": 908.22,
+            "text": " who first postulated it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 908.22,
+            "end": 909.94,
+            "text": " A few of these things work their way in."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 909.94,
+            "end": 912.42,
+            "text": " Their ice balls get heated up by the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 912.42,
+            "end": 916.38,
+            "text": " Sunlight then, at the pressure, sunlight, the pressure of the wind from the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 916.38,
+            "end": 918.54,
+            "text": " The Sun is blowing a wind from its surface."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 918.54,
+            "end": 923.58,
+            "text": " Pushes the gas and the released dust and dirt particles in the comet away and you see"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 923.58,
+            "end": 928.46,
+            "text": " this long streaming tail that very slowly works its way around the Sun visible night tonight"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 928.46,
+            "end": 930.82,
+            "text": " very much as the planets are."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 930.82,
+            "end": 936.62,
+            "text": " So now we've expanded the planetary system into the region of the comets out beyond Pluto."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 936.62,
+            "end": 938.34,
+            "text": " And it turns out that Pluto is one of them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 938.34,
+            "end": 939.34,
+            "text": " It's not a comet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 939.34,
+            "end": 940.34,
+            "text": " Don't get confused on that."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 940.34,
+            "end": 941.34,
+            "text": " It's not a comet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 941.34,
+            "end": 942.34,
+            "text": " It's a transition body."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 942.34,
+            "end": 945.62,
+            "text": " It's a body that, in a sense, tried your planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 945.62,
+            "end": 948.3,
+            "text": " But because it lacked a raw material, it couldn't quite make it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 948.3,
+            "end": 953.26,
+            "text": " And then we've got another huge reservoir that takes us almost halfway the nearest star"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 953.26,
+            "end": 954.26,
+            "text": " surrounding the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 954.26,
+            "end": 959.46,
+            "text": " It's called the Ork Cloud, or RT after it got ork, another astronomer of the mid-20th century."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 959.46,
+            "end": 960.86,
+            "text": " You postulated that one too."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 960.86,
+            "end": 965.62,
+            "text": " That's the reservoir of very long period comets that were created in the planetary system"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 965.62,
+            "end": 967.46,
+            "text": " eons ago were tossed out."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 967.46,
+            "end": 969.3,
+            "text": " It's still belonged to the solar system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 969.3,
+            "end": 973.74,
+            "text": " So the solar system is vastly larger in scale than the planetary system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 973.74,
+            "end": 974.74,
+            "text": " And now we've got the planets."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 974.74,
+            "end": 975.74,
+            "text": " Where do you end up counting?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 975.74,
+            "end": 976.74,
+            "text": " Pluto, you can count it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 976.74,
+            "end": 977.74,
+            "text": " You can count the moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 977.74,
+            "end": 979.14,
+            "text": " It doesn't matter."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 979.14,
+            "end": 980.14,
+            "text": " We know what they are."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 980.14,
+            "end": 981.9,
+            "text": " It's what they are that counts."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 981.9,
+            "end": 984.66,
+            "text": " Not exactly what you call them and categorize them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 984.66,
+            "end": 989.58,
+            "text": " And we've got this band of comets outside the orbit of Pluto."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 989.58,
+            "end": 991.78,
+            "text": " And this huge reservoir of comets around the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 991.78,
+            "end": 996.86,
+            "text": " And then we've got a whole bunch of little bodies in between Mars and Jupiter called the Asteroids."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 996.86,
+            "end": 999.02,
+            "text": " The biggest one is there's not terribly large."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 999.02,
+            "end": 1001.22,
+            "text": " It's considerably smaller than the moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1001.22,
+            "end": 1005.34,
+            "text": " If you roll them all together, you might have gotten an Earth or something like a terrestrial"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1005.34,
+            "end": 1006.34,
+            "text": " planet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1006.34,
+            "end": 1008.62,
+            "text": " It's kind of fair to call them a terrestrial planet collectively."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1008.62,
+            "end": 1013.22,
+            "text": " And if you're walking on one, the biggest one, certain names, Sirus, certainly feel like"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1013.22,
+            "end": 1015.14,
+            "text": " you work, except you'd be a lot lighter."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1015.14,
+            "end": 1019.02,
+            "text": " So we now have at least something of an inventory here of the planetary system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1019.02,
+            "end": 1025.1000000000001,
+            "text": " And we will over the course of this course over this set of lectures be looking at all"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1025.1000000000001,
+            "end": 1030.14,
+            "text": " of them in fine detail, beginning with the Earth in the middle, looking outward into the"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1030.14,
+            "end": 1036.18,
+            "text": " sky, the context of the orbits of the planets around the Sun, how they move, and then in"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1036.18,
+            "end": 1040.6200000000001,
+            "text": " detail about their physical nature and eventually where they all came from."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1040.6200000000001,
+            "end": 1045.18,
+            "text": " And eventually, where they're all going to go, too, because nothing is permanent."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1045.18,
+            "end": 1046.74,
+            "text": " Everything is born and everything dies."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1046.74,
+            "end": 1052.1000000000001,
+            "text": " And part of astronomy is learning how things are born and how things die, where we came"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1052.1000000000001,
+            "end": 1054.7,
+            "text": " from and where we're going to go."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1054.7,
+            "end": 1059.5400000000002,
+            "text": " But we have to put the solar system, the solar system, the planetary system, make no sense."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1059.54,
+            "end": 1063.98,
+            "text": " If you can't put it into a broader context, the Sun is a star."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1063.98,
+            "end": 1069.1399999999999,
+            "text": " Now generally, the common phraseologies is talk about the Sun and the stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1069.1399999999999,
+            "end": 1072.58,
+            "text": " And we talk about stars, particularly, you're talking about all the other ones out there."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1072.58,
+            "end": 1077.02,
+            "text": " But keep in mind, always, that the Sun is just one of their number."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1077.02,
+            "end": 1081.3,
+            "text": " You've got a side on a nice clear night out in the country with no moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1081.3,
+            "end": 1085.5,
+            "text": " The average human eye can see maybe 2,000, 2,500 stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1085.5,
+            "end": 1090.58,
+            "text": " Over the course of the entire sky, the entire night, if you go around the globe, there are"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1090.58,
+            "end": 1095.38,
+            "text": " probably around 8,000 that are visible to the human eye, depending upon how old you are"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1095.38,
+            "end": 1097.5,
+            "text": " and what your level of light pollution is."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1097.5,
+            "end": 1100.26,
+            "text": " This is just the beginning."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1100.26,
+            "end": 1104.78,
+            "text": " They all look pretty much the same when you stand outside a night and look at them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1104.78,
+            "end": 1107.38,
+            "text": " They just appear as little points of light."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1107.38,
+            "end": 1108.54,
+            "text": " But look carefully."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1108.54,
+            "end": 1109.54,
+            "text": " Look very carefully."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1109.54,
+            "end": 1111.22,
+            "text": " And you see colors."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1111.22,
+            "end": 1112.9,
+            "text": " There's some that are a little reddish."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1112.9,
+            "end": 1114.9,
+            "text": " There's some that are kind of orange."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1114.9,
+            "end": 1118.18,
+            "text": " And some take on a little bit of a blue tint that reflect their temperatures."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1118.18,
+            "end": 1121.5,
+            "text": " The blue stars hot, the red stars cool."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1121.5,
+            "end": 1124.74,
+            "text": " The Sun is often considered as kind of a yellow white star."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1124.74,
+            "end": 1127.66,
+            "text": " It has that kind of cast to it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1127.66,
+            "end": 1132.14,
+            "text": " And temperature of about 6,000 degrees Kelvin."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1132.14,
+            "end": 1135.5800000000002,
+            "text": " I hate to introduce a new temperature scale to you because this is going to be great."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1135.5800000000002,
+            "end": 1140.66,
+            "text": " In the United States, we have to deal with Fahrenheit and Celsius are centigrade."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1140.66,
+            "end": 1144.14,
+            "text": " And in Europe and Canada and the rest, people stick with centigrade."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1144.18,
+            "end": 1145.42,
+            "text": " It's a pretty simple system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1145.42,
+            "end": 1149.5,
+            "text": " Centigrade goes from zero to freezing water, 100 to boiling."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1149.5,
+            "end": 1153.5400000000002,
+            "text": " But then you go down and down and down to negatives until you get down to a point that's"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1153.5400000000002,
+            "end": 1154.5400000000002,
+            "text": " called absolute zero."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1154.5400000000002,
+            "end": 1157.98,
+            "text": " It's minus 273 degrees Kelvin centigrade."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1157.98,
+            "end": 1160.3400000000001,
+            "text": " So we just start at zero and work our way up."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1160.3400000000001,
+            "end": 1162.6200000000001,
+            "text": " That's all in centigrade units."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1162.6200000000001,
+            "end": 1167.0200000000002,
+            "text": " And the sun in that scale is about 6,000 centigrade degrees above absolute zero."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1167.0200000000002,
+            "end": 1170.22,
+            "text": " It puts things in sort of a context for you."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1170.22,
+            "end": 1176.42,
+            "text": " The stars range in temperature from not much hotter than that of a self-cleaning oven,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1176.42,
+            "end": 1181.22,
+            "text": " believe it or not, about 1,000 degrees or cooler."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1181.22,
+            "end": 1184.9,
+            "text": " So cool you can't even see them with a human eye."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1184.9,
+            "end": 1190.14,
+            "text": " To a maximum of close to a million, it's a spectacular range."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1190.14,
+            "end": 1195.38,
+            "text": " In dimension, there are stars about the size of Manhattan."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1195.38,
+            "end": 1200.18,
+            "text": " And there are stars the size of the orbit of Saturn in another spectacular range."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1200.18,
+            "end": 1204.46,
+            "text": " Stars little light things, perhaps not much bigger than Jupiter and mass."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1204.46,
+            "end": 1208.6200000000001,
+            "text": " If you want to stretch the definition of a star, which it really requires, you see at"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1208.6200000000001,
+            "end": 1213.18,
+            "text": " some point, we have difficulty in even defining what a star is."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1213.18,
+            "end": 1218.02,
+            "text": " Sometimes I like to define it as body that at some point in its career goes through this"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1218.02,
+            "end": 1219.5,
+            "text": " nuclear fusion process."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1219.5,
+            "end": 1223.74,
+            "text": " And you have stars that are 100 times as massive as the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1223.74,
+            "end": 1228.8200000000002,
+            "text": " The sun we know is going to die out as a little body, the size of the Earth."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1228.82,
+            "end": 1233.1,
+            "text": " Sometime over the next several billion years, you go to stars that are much more massive"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1233.1,
+            "end": 1234.82,
+            "text": " than the sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1234.82,
+            "end": 1236.06,
+            "text": " They blow up, they explode."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1236.06,
+            "end": 1237.4199999999998,
+            "text": " The sun can't do that."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1237.4199999999998,
+            "end": 1241.4199999999998,
+            "text": " One of the nice things that we have learned, the sun cannot explode."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1241.4199999999998,
+            "end": 1243.58,
+            "text": " But some of them do."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1243.58,
+            "end": 1248.58,
+            "text": " And the ripples that the exploding stars spread throughout the universe help create"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1248.58,
+            "end": 1249.58,
+            "text": " new stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1249.58,
+            "end": 1252.86,
+            "text": " They provide the chemical elements that created us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1252.86,
+            "end": 1254.8999999999999,
+            "text": " It's getting a little bit ahead of the story, however."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1254.9,
+            "end": 1258.8600000000001,
+            "text": " Let's look back at the stars and a little bit at the scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1258.8600000000001,
+            "end": 1263.14,
+            "text": " The nearest star as close as it looks, this star called Alpha Centauri."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1263.14,
+            "end": 1267.46,
+            "text": " And here you get into another argument because Alpha Centauri is a triple star."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1267.46,
+            "end": 1272.02,
+            "text": " Two of them go around an orbit about every 80 years, very close together."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1272.02,
+            "end": 1276.5,
+            "text": " The brighter, very much like the sun, rather curious, the interesting coincidence."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1276.5,
+            "end": 1282.02,
+            "text": " And then there's a little one a little bit farther away, a couple of maybe 10,000 astronomical"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1282.02,
+            "end": 1286.1,
+            "text": " units away from the double, which is called Proxima Centauri."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1286.1,
+            "end": 1288.18,
+            "text": " And that's a little bit closer to us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1288.18,
+            "end": 1290.54,
+            "text": " But let's not quibble about this."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1290.54,
+            "end": 1291.86,
+            "text": " Call it Alpha Centauri."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1291.86,
+            "end": 1293.7,
+            "text": " How far away is it?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1293.7,
+            "end": 1298.18,
+            "text": " It gets difficult to use astronomical units at this point."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1298.18,
+            "end": 1302.7,
+            "text": " The star is about 270,000 astronomical units away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1302.7,
+            "end": 1304.06,
+            "text": " We need a new scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1304.06,
+            "end": 1307.78,
+            "text": " You want to match your distance scale to the things being measured."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1307.78,
+            "end": 1311.9,
+            "text": " Otherwise you wind up with little bitty numbers or you wind up with enormous numbers."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1311.9,
+            "end": 1313.5400000000002,
+            "text": " So let's introduce the light year."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1313.5400000000002,
+            "end": 1316.1000000000001,
+            "text": " We'll scale it back to the astronomical unit in a minute."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1316.1000000000001,
+            "end": 1319.22,
+            "text": " The light year is the distance, not a unit of time."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1319.22,
+            "end": 1320.74,
+            "text": " It's commonly taken as unit of time."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1320.74,
+            "end": 1322.74,
+            "text": " No, it's a unit of distance."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1322.74,
+            "end": 1326.5800000000002,
+            "text": " It's the distance array of light will travel in one year."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1326.5800000000002,
+            "end": 1328.5,
+            "text": " Always that hard to appreciate."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1328.5,
+            "end": 1334.5,
+            "text": " Light moves at a speed of 186,000 miles per second, 300,000 kilometers per second."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1334.5,
+            "end": 1339.1000000000001,
+            "text": " That's eight times around the Earth, one second."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1339.1,
+            "end": 1344.34,
+            "text": " Here to the moon, in a second and a half, from the Sun to here in eight minutes."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1344.34,
+            "end": 1347.34,
+            "text": " We could say the Sun is eight light minutes away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1347.34,
+            "end": 1350.06,
+            "text": " Pluto is several light hours away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1350.06,
+            "end": 1354.9399999999998,
+            "text": " Interesting aside, if you visited Pluto when you want to talk to the folks back home, you"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1354.9399999999998,
+            "end": 1359.6599999999999,
+            "text": " start talking and your telephone message doesn't reach back home for another four hours,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1359.6599999999999,
+            "end": 1361.82,
+            "text": " long way to go."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1361.82,
+            "end": 1363.98,
+            "text": " That is, we see things as they were in the past."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1363.98,
+            "end": 1366.54,
+            "text": " You do not see the Sun as it is now."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1366.54,
+            "end": 1368.5,
+            "text": " You see it as it was eight minutes ago."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1368.5,
+            "end": 1373.58,
+            "text": " The near stars for light years away, it's about 270,000 astronomical units."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1373.58,
+            "end": 1380.5,
+            "text": " The light year and other units similar to that become the standard for interstellar use"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1380.5,
+            "end": 1387.42,
+            "text": " and even for use across the whole universe for that matter."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1387.42,
+            "end": 1393.1,
+            "text": " One of the more common questions that I will get is, don't that bother you?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1393.1,
+            "end": 1397.02,
+            "text": " You're looking at stars and near stars for light years away you're seeing as it was four"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1397.02,
+            "end": 1398.02,
+            "text": " years ago."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1398.42,
+            "end": 1400.9,
+            "text": " What's it doing now?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1400.9,
+            "end": 1402.1399999999999,
+            "text": " It could blow up, which you can't."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1402.1399999999999,
+            "end": 1403.1399999999999,
+            "text": " It can't."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1403.1399999999999,
+            "end": 1404.7,
+            "text": " Relax, it can't."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1404.7,
+            "end": 1409.26,
+            "text": " It could blow up and you wouldn't know it for four years and yes, that's absolutely right"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1409.26,
+            "end": 1415.94,
+            "text": " and I don't care because I can't know anything until light gets to me anyway."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1415.94,
+            "end": 1419.86,
+            "text": " So my now is when the light gets to me."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1419.86,
+            "end": 1426.54,
+            "text": " Now if you want to walk around your house or your office in a days, think about this."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1426.54,
+            "end": 1429.58,
+            "text": " You're looking at your colleagues or your family."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1429.58,
+            "end": 1434.18,
+            "text": " Light travels about a foot in a trillionth of a second."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1434.18,
+            "end": 1437.94,
+            "text": " You see everybody around you as they were, a few trillions of a second ago."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1437.94,
+            "end": 1442.62,
+            "text": " You don't see them as they are now and the people farther away from you, you see more"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1442.62,
+            "end": 1445.5,
+            "text": " farther into the past."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1445.5,
+            "end": 1449.34,
+            "text": " So you're not looking at anything in that context, that sense of now."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1449.34,
+            "end": 1451.1399999999999,
+            "text": " Now is when the light arrives."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1451.1399999999999,
+            "end": 1453.22,
+            "text": " None of this bothers us very much."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1453.22,
+            "end": 1455.62,
+            "text": " We simply ignore the fact that there's a light travel time."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1455.62,
+            "end": 1458.1399999999999,
+            "text": " You see things as they are when they get to us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1458.1399999999999,
+            "end": 1461.2199999999998,
+            "text": " And we're looking at all the stars in the sky at different distances and we see them"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1461.2199999999998,
+            "end": 1463.6599999999999,
+            "text": " as they were in the distant past."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1463.6599999999999,
+            "end": 1467.06,
+            "text": " All the different stages in their ages."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1467.06,
+            "end": 1471.7399999999998,
+            "text": " And that's really not a problem because stars live for far longer than that little light"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1471.7399999999998,
+            "end": 1472.7399999999998,
+            "text": " travel time anyway."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1472.7399999999998,
+            "end": 1474.5,
+            "text": " They live for millions and billions of years."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1474.5,
+            "end": 1477.86,
+            "text": " Who cares about a few thousand here and there?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1477.86,
+            "end": 1480.9399999999998,
+            "text": " Just like when you're looking at your colleagues, if you trillions of a second in the lifetime"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1480.9399999999998,
+            "end": 1482.78,
+            "text": " of a human being doesn't mean anything at all."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1482.78,
+            "end": 1484.1799999999998,
+            "text": " So it really matters not."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1485.14,
+            "end": 1486.6200000000001,
+            "text": " We can forget the whole thing otherwise."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1486.6200000000001,
+            "end": 1490.8200000000002,
+            "text": " We wander around like this wondering, you're looking at everybody in the past."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1490.8200000000002,
+            "end": 1493.5800000000002,
+            "text": " Can drive you crazy after a little while."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1493.5800000000002,
+            "end": 1495.26,
+            "text": " So we forget about it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1495.26,
+            "end": 1496.94,
+            "text": " For a light years, it's a long way to go."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1496.94,
+            "end": 1500.42,
+            "text": " It's why we haven't gone to the stars and why it's going to be very, very difficult"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1500.42,
+            "end": 1501.42,
+            "text": " to go."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1501.42,
+            "end": 1503.54,
+            "text": " The distances are spectacular."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1503.54,
+            "end": 1506.1000000000001,
+            "text": " You can't even use this Earth as a marble scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1506.1000000000001,
+            "end": 1507.7,
+            "text": " Let's take the sun as a marble now."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1507.7,
+            "end": 1510.3,
+            "text": " We'll shrink it down from the wagon wheel down to the marble."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1510.3,
+            "end": 1512.18,
+            "text": " And the Earth is about that big."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1512.18,
+            "end": 1516.1,
+            "text": " It's about as big as a grain of sand on that scale."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1516.1,
+            "end": 1521.78,
+            "text": " The nearest star is 170 miles, about 250 kilometers away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1521.78,
+            "end": 1530.6599999999999,
+            "text": " The scale is really to take small marbles and put them in the major cities of our country."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1530.6599999999999,
+            "end": 1534.58,
+            "text": " Now start them rolling around because stars move relative to each other."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1534.58,
+            "end": 1538.6599999999999,
+            "text": " The sun moves about its own diameter in a day."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1538.66,
+            "end": 1542.9,
+            "text": " So you have these marble shifting a diameter in a day and they're separated by 100 miles,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1542.9,
+            "end": 1544.7,
+            "text": " 200 miles, maybe more."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1544.7,
+            "end": 1546.1000000000001,
+            "text": " Do you think they're going to crash into each other?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1546.1000000000001,
+            "end": 1547.5800000000002,
+            "text": " I don't think so."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1547.5800000000002,
+            "end": 1548.98,
+            "text": " We're very safe out here."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1548.98,
+            "end": 1552.26,
+            "text": " The separations are spectacular compared to the sizes."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1552.26,
+            "end": 1555.14,
+            "text": " We live in a very safe part of the galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1555.14,
+            "end": 1557.3400000000001,
+            "text": " Nothing terribly dangerous around us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1557.3400000000001,
+            "end": 1561.5400000000002,
+            "text": " Stars aren't going to collide into us as thick as they look in the nighttime sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1561.5400000000002,
+            "end": 1564.02,
+            "text": " It is a grand illusion."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1564.02,
+            "end": 1565.98,
+            "text": " The space between them is not empty by the way."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1565.98,
+            "end": 1568.38,
+            "text": " The space between them is filled."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1568.38,
+            "end": 1573.8600000000001,
+            "text": " It's perhaps a bad word because it's almost a vacuum but not quite, but it is filled with"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1573.8600000000001,
+            "end": 1576.98,
+            "text": " a thin, dusty gas."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1576.98,
+            "end": 1579.7,
+            "text": " You can see that in the Milky Way."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1579.7,
+            "end": 1583.02,
+            "text": " We've lost the Milky Way in our time."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1583.02,
+            "end": 1587.7,
+            "text": " You go into any city, almost any village for that matter and the lights are so bright that"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1587.7,
+            "end": 1590.94,
+            "text": " you can't see the dark skies anymore, but your grandparents saw them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1590.94,
+            "end": 1596.14,
+            "text": " You walk out in the backyard and see this wonderful band of light going across the sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1596.14,
+            "end": 1598.54,
+            "text": " Milky Way is the disc of our galaxy."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1598.54,
+            "end": 1605.8200000000002,
+            "text": " All of the stars that you see at night and 200 or more billion others are spread into"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1605.8200000000002,
+            "end": 1611.22,
+            "text": " a thin disc that is 100,000 light years across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1611.22,
+            "end": 1614.6200000000001,
+            "text": " Now we're not talking three or four or ten light years."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1614.6200000000001,
+            "end": 1616.38,
+            "text": " We're talking 100,000."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1616.38,
+            "end": 1618.46,
+            "text": " The sky is really in three dimensions."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1618.46,
+            "end": 1621.38,
+            "text": " You lose that sense entirely when you look up there at the heavens."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1621.38,
+            "end": 1622.82,
+            "text": " All the stars look at the same distance."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1622.82,
+            "end": 1624.66,
+            "text": " All the planets look the same distance away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1624.66,
+            "end": 1625.98,
+            "text": " No, the planets are closed."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1625.98,
+            "end": 1627.1000000000001,
+            "text": " Shining by reflected light."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1627.1000000000001,
+            "end": 1633.1000000000001,
+            "text": " The stars are self-illuminating, shining by thermonuclear reactions."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1633.1000000000001,
+            "end": 1634.98,
+            "text": " All at different distances."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1634.98,
+            "end": 1638.82,
+            "text": " Some of the brighter ones that you see are only a few tens of light years away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1638.82,
+            "end": 1646.18,
+            "text": " Others like the great star, Denib, many of the others that you see are maybe a thousand"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1646.18,
+            "end": 1648.22,
+            "text": " light years away or more."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1648.22,
+            "end": 1649.22,
+            "text": " You lose telescopes."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1649.22,
+            "end": 1650.74,
+            "text": " You can see them vastly farther than that."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1650.74,
+            "end": 1652.06,
+            "text": " We've learned how we're structured."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1652.06,
+            "end": 1653.06,
+            "text": " The thin disc."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1653.06,
+            "end": 1654.78,
+            "text": " And we're sort of out at the edge."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1654.78,
+            "end": 1657.22,
+            "text": " Now the disc doesn't have a real edge on it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1657.22,
+            "end": 1658.9,
+            "text": " It just gradually fades away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1658.9,
+            "end": 1663.38,
+            "text": " But the majority of stars are in this disc about 100,000 light years across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1663.38,
+            "end": 1666.34,
+            "text": " And we're roughly two thirds or three quarters of the way out to the edge."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1666.34,
+            "end": 1671.58,
+            "text": " Now imagine yourself in the middle of this disc and you look around and you see the disc"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1671.58,
+            "end": 1673.26,
+            "text": " around your head."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1673.26,
+            "end": 1676.98,
+            "text": " You can only see the individual stars within a few hundred light years."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1676.98,
+            "end": 1683.32,
+            "text": " Maybe a thousand light years of you and all the rest gradually blend into a thick band"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1683.32,
+            "end": 1684.66,
+            "text": " of light that surrounds you."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1684.66,
+            "end": 1689.26,
+            "text": " The Milky Way, which is a thick mythology, a wonderful mythology about it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1689.26,
+            "end": 1695.8600000000001,
+            "text": " The pathway of the souls on their way to heaven, celestial rivers bringing the water to"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1695.8600000000001,
+            "end": 1697.54,
+            "text": " irrigate our crops."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1697.54,
+            "end": 1704.42,
+            "text": " And Galileo, when he put his first telescope on it back there in 169, 1610, oh stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1704.42,
+            "end": 1706.54,
+            "text": " It's just stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1706.54,
+            "end": 1710.3799999999999,
+            "text": " Two hundred billion of them in a disc, a thousand light years across."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1710.3799999999999,
+            "end": 1711.8999999999999,
+            "text": " And we're just one of them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1711.8999999999999,
+            "end": 1717.3799999999999,
+            "text": " Very special one because we are part of it and we can look out and see it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1717.3799999999999,
+            "end": 1720.5,
+            "text": " We can look out and comprehend it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1720.5,
+            "end": 1724.1399999999999,
+            "text": " Up until 1920, we thought our galaxy was the only one."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1724.1399999999999,
+            "end": 1729.94,
+            "text": " Oh, there were inklings that maybe we weren't really alone."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1729.94,
+            "end": 1732.5,
+            "text": " They go back a couple hundred years before that."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1732.5,
+            "end": 1735.34,
+            "text": " The astronomers began to see little fuzzy things."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1735.34,
+            "end": 1739.02,
+            "text": " It tells the technical term, little fuzzy thing, little fuzzy blobs out there in space."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1739.02,
+            "end": 1740.42,
+            "text": " And some of them showed structure."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1740.42,
+            "end": 1745.98,
+            "text": " Some of them led spiral arms, which our galaxy does."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1745.98,
+            "end": 1750.26,
+            "text": " We didn't know that they were other galaxies until Edwin Hubble, after whom the Hubble"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1750.26,
+            "end": 1754.9,
+            "text": " Space Telescope was named, was able finally to resolve one of these things in individual"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1754.9,
+            "end": 1755.9,
+            "text": " stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1755.9,
+            "end": 1759.94,
+            "text": " And if they were anything like the stars in our own galaxy, these things had to be terribly"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1759.94,
+            "end": 1761.42,
+            "text": " far away."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1761.42,
+            "end": 1765.78,
+            "text": " In north, northern autumn evenings, you see the great constellation and drometer rising"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1765.78,
+            "end": 1768.3000000000002,
+            "text": " up above the eastern horizon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1768.3000000000002,
+            "end": 1772.8200000000002,
+            "text": " And if you've got sharp eyes, you can see a little faint fuzzy blob in it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1772.8200000000002,
+            "end": 1778.02,
+            "text": " That fuzzy blob is the andromeda galaxy, just friendly name, M31, it goes by a variety"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1778.02,
+            "end": 1779.3400000000001,
+            "text": " of names."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1779.3400000000001,
+            "end": 1783.02,
+            "text": " Most distant thing you can see with the naked eye, without a telescope."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1783.02,
+            "end": 1786.94,
+            "text": " Two million light years away, a galaxy very much like our own."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1786.94,
+            "end": 1791.7,
+            "text": " And then you look out farther and you see more and more and more of these."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1791.7,
+            "end": 1796.1000000000001,
+            "text": " Several years ago, the director of the Hubble Space Telescope said, let's look at a blank"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1796.1000000000001,
+            "end": 1799.98,
+            "text": " area of sky and see what turns up."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1799.98,
+            "end": 1804.5800000000002,
+            "text": " Now the Hubble Space Telescope burns up money at a pretty fierce rate."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1804.5800000000002,
+            "end": 1807.74,
+            "text": " It is very difficult to get time on the Hubble Space Telescope."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1807.74,
+            "end": 1811.6200000000001,
+            "text": " And here the director wants to take 100 hours worth of this precious time and look at something"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1811.6200000000001,
+            "end": 1813.38,
+            "text": " that's blank."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1813.38,
+            "end": 1815.98,
+            "text": " He figured he'd get something."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1815.98,
+            "end": 1816.98,
+            "text": " Oh, he did."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1816.98,
+            "end": 1822.14,
+            "text": " And that little dot, which is only a tenth the angular size of the full moon."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1822.14,
+            "end": 1824.82,
+            "text": " Hubble Space Telescope has a very small field of view."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1824.82,
+            "end": 1827.02,
+            "text": " 3,000 galaxies showed up."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1827.02,
+            "end": 1829.18,
+            "text": " 3,000."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1829.18,
+            "end": 1835.74,
+            "text": " If you could replicate that across the sky, it would be possible to see over a trillion galaxies"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1835.74,
+            "end": 1841.22,
+            "text": " from the earth, each one similar to our own, with maybe somewhere around 100, 200, 300"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1841.22,
+            "end": 1842.22,
+            "text": " billion stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1842.22,
+            "end": 1844.54,
+            "text": " Not all of them are like some of them are big, some of them are small."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1844.54,
+            "end": 1850.1,
+            "text": " If you want to count the smaller ones, they're vastly more than a trillion within the scale"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1850.1,
+            "end": 1853.18,
+            "text": " of the universe we can actually see."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1853.18,
+            "end": 1859.6599999999999,
+            "text": " Vast numbers of them, clumping, clustering together, all of them coming out of a concept"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1859.6599999999999,
+            "end": 1864.34,
+            "text": " that we refer to as the Big Bang."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1864.34,
+            "end": 1868.54,
+            "text": " We look at the velocities of these galaxies, which we can easily find."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1868.54,
+            "end": 1872.02,
+            "text": " We've been looking at this over the last century or more."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1872.02,
+            "end": 1877.86,
+            "text": " And we find that with the exception of a couple of galaxies that are close to us, they're"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1877.86,
+            "end": 1879.1399999999999,
+            "text": " all moving away from us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1879.1399999999999,
+            "end": 1884.3,
+            "text": " And more remarkably, they're all moving away from us with speeds that are absolutely and"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1884.3,
+            "end": 1886.22,
+            "text": " directly proportional to their distances."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1886.22,
+            "end": 1888.18,
+            "text": " You double the distance, you double the speed."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1888.18,
+            "end": 1892.46,
+            "text": " And the speeds go up and up and up till they approach the speed of light."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1892.46,
+            "end": 1896.9,
+            "text": " There are some of these things are going away to enormous velocities from us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1896.9,
+            "end": 1905.98,
+            "text": " And the only explanation that seems to fit all of the data is that at some point, numbers"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1905.98,
+            "end": 1908.5800000000002,
+            "text": " have been pretty well pinned down to about 13 billion years."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1908.5800000000002,
+            "end": 1914.6200000000001,
+            "text": " Somewhere around 13 billion years ago, the universe was in a hot dense state."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1914.6200000000001,
+            "end": 1915.8200000000002,
+            "text": " You can't say it was out there."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1915.8200000000002,
+            "end": 1919.8600000000001,
+            "text": " You can't say it was like a P. You can't, you can just say that all the matter was crushed"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1919.8600000000001,
+            "end": 1924.18,
+            "text": " together into a hot dense state from which it began to expand."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1924.18,
+            "end": 1925.18,
+            "text": " That's not an explosion."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1925.18,
+            "end": 1928.7,
+            "text": " It began a sudden and violent expansion."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1928.7,
+            "end": 1935.5,
+            "text": " And within that expansion, the galaxies which accumulated into clusters of galaxies, which"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1935.5,
+            "end": 1944.02,
+            "text": " formed stars, all of this expanded away and we're seeing the remnants of the expansion."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1944.02,
+            "end": 1945.02,
+            "text": " Where did the Big Bang starts?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1945.02,
+            "end": 1946.02,
+            "text": " Start right here."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1946.02,
+            "end": 1947.8600000000001,
+            "text": " It's in this room."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1947.8600000000001,
+            "end": 1948.8600000000001,
+            "text": " Everything is growing."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1948.8600000000001,
+            "end": 1950.46,
+            "text": " Now, don't get the wrong idea."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1950.46,
+            "end": 1953.14,
+            "text": " It doesn't mean that the Earth is expanding or that we're expanding."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1953.14,
+            "end": 1956.38,
+            "text": " Well this is held together by the glue of gravity, which will be the subject of a whole"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1956.38,
+            "end": 1957.7800000000002,
+            "text": " lecture."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1957.7800000000002,
+            "end": 1961.1000000000001,
+            "text": " This wonderful concept of how things are put together."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1961.1000000000001,
+            "end": 1963.74,
+            "text": " It means the separation between large scale things."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1963.74,
+            "end": 1965.66,
+            "text": " It's actually an expansion of space."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1965.66,
+            "end": 1967.0600000000002,
+            "text": " It's not an explosion."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1967.0600000000002,
+            "end": 1971.1000000000001,
+            "text": " It means that space itself is getting bigger and bigger and the galaxies are just floating"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1971.1000000000001,
+            "end": 1972.1000000000001,
+            "text": " along with it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1972.1000000000001,
+            "end": 1973.8600000000001,
+            "text": " The separation is increasing."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1973.8600000000001,
+            "end": 1975.6200000000001,
+            "text": " Why had happened or how it came together?"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1975.6200000000001,
+            "end": 1977.46,
+            "text": " Nobody knows."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1977.46,
+            "end": 1982.7,
+            "text": " We can speculate, perhaps, but there are no hard data on how all of this began."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1982.7,
+            "end": 1985.02,
+            "text": " We're seeing the aftermath of it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1985.02,
+            "end": 1986.54,
+            "text": " And we're one part of it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1986.54,
+            "end": 1988.66,
+            "text": " We're a very important part of it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1988.66,
+            "end": 1991.54,
+            "text": " Everything affects everything else in this system."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1991.54,
+            "end": 1994.5,
+            "text": " Not just through gravity, but through radiation, through light."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1994.5,
+            "end": 1996.42,
+            "text": " We're all tied together."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 1996.42,
+            "end": 2002.54,
+            "text": " The whole universe, universe, one, it means one thing."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2002.54,
+            "end": 2004.26,
+            "text": " And we're not separated from it."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2004.26,
+            "end": 2007.74,
+            "text": " We are the third planet out from the Sun."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2007.74,
+            "end": 2009.06,
+            "text": " From an ordinary star."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2009.78,
+            "end": 2013.02,
+            "text": " It's a very special star in our view because it's ours."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2013.02,
+            "end": 2014.1799999999998,
+            "text": " It keeps us alive."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2014.1799999999998,
+            "end": 2017.8999999999999,
+            "text": " Everything that we have comes from the Sun, eventually."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2017.8999999999999,
+            "end": 2022.74,
+            "text": " After the Big Bang galaxies formed, stars formed within the galaxies."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2022.74,
+            "end": 2027.82,
+            "text": " As stars age, they create chemical elements within them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2027.82,
+            "end": 2030.34,
+            "text": " After all, the Sun is making helium out of hydrogen."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2030.34,
+            "end": 2033.34,
+            "text": " Eventually, it'll make carbon and oxygen out of helium."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2033.34,
+            "end": 2035.74,
+            "text": " More massive stars can go farther yet."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2035.74,
+            "end": 2038.22,
+            "text": " They can even create iron in their cores."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2038.22,
+            "end": 2040.3,
+            "text": " Stars like this explode."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2040.3,
+            "end": 2043.7,
+            "text": " Even stars like the Sun will create additional chemical elements,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2043.7,
+            "end": 2048.34,
+            "text": " launch them to the surface, perhaps, out into interstellar space."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2048.34,
+            "end": 2050.2200000000003,
+            "text": " Stars recycle themselves."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2050.2200000000003,
+            "end": 2052.3,
+            "text": " The Sun will lose about half of its matter back."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2052.3,
+            "end": 2056.46,
+            "text": " And the interstellar space and more massive stars will lose even more."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2056.46,
+            "end": 2059.94,
+            "text": " All of that becomes fodder for the creation of new stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2059.94,
+            "end": 2063.38,
+            "text": " New stars are born from the gases of interstellar space."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2063.38,
+            "end": 2066.7,
+            "text": " But these gases have been contaminated by heavy elements"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2066.7,
+            "end": 2069.8199999999997,
+            "text": " from the deaths of previous generations of stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2069.8199999999997,
+            "end": 2071.9399999999996,
+            "text": " The galaxy is around 13 billion years old."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2071.9399999999996,
+            "end": 2074.02,
+            "text": " It didn't take long to form galaxies after the Big Bang."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2074.02,
+            "end": 2076.1,
+            "text": " It happened very, very, very quickly."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2076.1,
+            "end": 2079.8999999999996,
+            "text": " Reasons we still don't entirely understand."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2079.8999999999996,
+            "end": 2084.54,
+            "text": " And then the deaths of stars began to increase heavy element content"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2084.54,
+            "end": 2088.66,
+            "text": " within the galaxies because the Big Bang created nothing but hydrogen and helium,"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2088.66,
+            "end": 2091.66,
+            "text": " the lightest of the things."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2091.66,
+            "end": 2096.3799999999997,
+            "text": " The Sun came along five billion years after, excuse me, all five billion years ago."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2096.38,
+            "end": 2102.5,
+            "text": " Some seven billion years or so after the creation of the universe, eight billion years."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2102.5,
+            "end": 2106.54,
+            "text": " So we had about eight billion years worth of stellar death"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2106.54,
+            "end": 2111.62,
+            "text": " to populate the gases of interstellar space with heavy elements."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2111.62,
+            "end": 2114.1,
+            "text": " The Sun and the Earth were born from that."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2114.1,
+            "end": 2121.02,
+            "text": " The Earth is a distillate then of the deaths of exploded stars."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2121.02,
+            "end": 2126.2599999999998,
+            "text": " So all of these little points out there are not just..."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2126.2599999999998,
+            "end": 2128.42,
+            "text": " It's not just the beautify the sky."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2128.42,
+            "end": 2130.58,
+            "text": " They all have to do directly with us."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2130.58,
+            "end": 2134.3,
+            "text": " And through the course of these lectures will look more and more and more"
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2134.3,
+            "end": 2138.82,
+            "text": " at what they are and at our place among them."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2138.82,
+            "end": 2143.3,
+            "text": " Thank you."
+        },
+        {
+            "title": "Astronomy I ",
+            "start": 2143.3,
+            "end": 2144.9,
+            "text": " This ends lecture one."
+        }
+    ],
+    "text": " Welcome to the Modern Scholar, where great professors teach you. My name is George Wilson, and I'll be your host. Today we begin, of course, entitled Astronomy, Earth, Sky, and the Planet. Your professor is James B. Kailer, Professor Emeritus of Astronomy at the University of Illinois at Urbana, Champaign. He received his Bachelor of Arts in Astronomy from the University of Michigan in 1960, and his PhD from UCLA in 1964, and has been at Illinois ever since. He has held both Fulbright and Guggenheim Fellowships. A Planetarium show based on his life and work plays in small planetaria around the world. For more information on this lecture, please visit the courses web page at www.modernscholar.com, where you'll have access to links to related sites, a seminar room to share your thoughts with other students, and, yes, of course, a final exam. And now we begin Astronomy, Earth, Sky, and the Planet. In lecture one, we and the universe, and now Professor Kailer. We are looking outward from an astronomical body. We are one planet of many in our planetary system. Maybe one planet of hundreds, maybe millions in our galaxy. We still do not know. We need to understand our own Earth. We can't experiment on Earth. We would like to understand our Earth better. How do we do that? We understand our Earth better by looking at the other planets, and getting some idea of what they're like, and why they are as they are, and feeding that information back to understand our own precious planet. The stars have a great deal to do with us. We live because of sunlight upon the Earth. We live because the sun is a stable star that will shine for billions of years into the future. Not only that, the sun reaches out and touches with its matter, with a wind that blows, that hits us, forms the Northern Lights. Perhaps deposits more energy into the Earth. We came from out there. All of what is out there fed back into us. We came from out there because of the accumulation of material from the galaxy that wound up forming our sun and forming our planets. We are children of the galaxy. We are not isolated. If we are to understand our Earth at all, we have to understand our environment. And that means not just near space, the inner part of the Earth, it means understanding the moon, it means understanding the planets, and the origin of all of this system. And that is what this course is really all about. Let me tell you a little about what we're going to do, or the course of these 14 lectures. We're going to start with the Earth, with the rotating Earth, with the Earth going around the sun, so we can get some idea of how things appear to move in the sky. Why the stars rise in the east and set in the west. Why the sun appears to move against the background of the stars? Why the seasons exist? We're going to look at inner space. We're going to look at the atoms that construct everything. We're going to look at the light that allows us to learn something about the natures, the compositions, and even the origins of the planets that are out there. We're going to begin to look at the physical natures of the planets from the Earth, through the moon, beginning and sweeping through the planetary system from Mercury on out all the way to the distant planet Pluto. Then begin to look at the debris of the system. Finally, at the end, in lecture 14, put it all together and see how it was all made, and see how our Earth was created, and why our Earth is so special within this marvelous planetary system. Let's take a look at the planets. Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Most school kids learn these things in order. That gives you the idea that all the planets are the same, that they're all like, and they are all natural experiments. By looking at the other planets, we can tell something about ourselves. They are all formed under different conditions and different distances from the Sun, different sizes, different masses. In an experimental science, you go into the lab, you change, you tweak the inputs, see what happens to the output. We can't do that to the Earth. We don't want to do that to the Earth, but nature's given us several other experiments that we can use. We can see what happens to Mercury. Why is Mercury the way it is? Why is Pluto the way it is? What conditions have changed them? And that leads us back once more into understanding ourselves. So look at the planets now and order outward from the Sun in a little bit more detail. We will keep increasing the detail until we begin to understand them better and better. Mercury, Venus, Earth, Mars, they're all rather similar. They're all made out of rock and metal. They're unusual bodies. We know of no other bodies in the universe quite like ours. There's a strong feeling of people who begin to learn astronomy that we are all insignificant on this little rock way out on the edge of a anonymous galaxy. And one of the other themes at this course is that that is simply not true. We're in a very special place on a very special body, a very unusual one that is unlike anything else that we know anywhere. Mercury, Venus, Earth, Mars, the terrestrial planets, after Terra, ourselves, we're all similar. Yet we're all different, we're all individuals. And I don't mind throwing the moon into that as well, making five terrestrial planets. If you were walking on the moon, you would feel very much like you're walking on the Earth. Little lighter, you'd bounce around a little bit more because the body is less massive than we are. But if it looks like a planet, it feels like a planet as they said about the duck, you know, if it quacks like the duck, it's probably a duck. And that's what we have here. If it looks like a planet, it's probably a planet. So let's count the moon in on that as well. So now we've got five in the inner part of the planetary system. And then you look out farther. And you see these two giants, Jupiter and Saturn, enormous bodies that are terribly similar to each other. Jupiter, Saturn, Uranus, and Neptune are often put together as the Jovian planets. That's really not quite true. Jupiter and Saturn are very similar to each other. But we say about one, you can pretty much rely on being true about the other. Giant bodies, ten or more times the size of the Earth and dimension. And then you move out farther to Uranus and Neptune. And they're smaller. They're very different from Jupiter and Saturn. They're rather unusual bodies. And they're our own, we don't understand them very well. In fact, we understand things less and less, really, the farther away we get. So now we've got three kinds of planets. We've got the five in the inner solar system. We've got the two giants a little farther out. And then we've got Uranus and Neptune, which are farther out yet. And then there's a little Pluto about which everybody argues. Is it a planet? Is it not a planet? One of the most common questions I get from people. Is it a planet? People seem to be very concerned about the fact. Well, in some ways it is, yes, and you can, in some ways, maybe we should exclude it. I kind of like to include it. So now we've got ten planets. We threw it out and we threw that in the moon. We'd have eight. And there's no strict definition. And that gives us a lot more freedom. And then we can take the little bodies in between Mars and Jupiter that everybody's heard about, or maybe read about science fiction stories, the asteroids. We could collect them all together. We could call them a planet too if we really wanted to. And that gives us 11. So the definition is free and floating. And I'll continue to use it free and floating. Remember when you were in first grade, maybe fourth grade, elementary school in the teacher head, your classroom had this panel up on the wall of the planets. It's a huge sun and the big planets all in a line outward from the sun. I hate to tell you this, but they lied. It's not true. It's not the way they look. We have to deal with scale in this business. And it's important at the outset that we try to set the sizes of these planets in the context of the distances between them. Because almost everything is empty space, or at least filled with empty, nothing is truly empty, of course. But the separations between things in astronomy are enormous compared to their sizes, a truly, truly underappreciated fact that is rendered a falsehood by the cartoon images that you generally see in classrooms. And sometimes we really have no choice because it would be impossible actually to draw a scale model of the solar system in a classroom. By the time you make the sun big enough to see, or the separations big enough, the earth is so small, you'd need a microscope to see it. So let's really start this particular lecture off after this introductory material. By trying to put things into some kind of scale and into some kind of context, the sun is by far the biggest body in the whole planetary system and the whole solar system. It is called the solar system for a reason. The planets are the satellites of the sun. They're the moons of the sun. The sun dominates everything. Thousand times more matter in it than all of the rest of the planetary system put together. It's almost a million miles across, one and a half million kilometers across. It's mass is 300,000 times that of the earth. It's a thousand times more massive than the largest of the planets Jupiter. They're separated from the sun by about 100 solar diameters. The distance between us and the sun is a standard unit, which I'm going to refer to a lot. And I'll try to remind you of it often on as we proceed through the course. Standard unit called the astronomical unit, with a capital A and a capital U, the AU. It's 93 million miles. It's the average distance between the earth and the sun. Average, yes, the distance between the earth and the sun does change a little bit. It has no effect on us at all. No effect on the seasons as you see later. But it is a minor change by a few percent. So we use the average and call that the astronomical unit. 93 million miles, almost exactly 150 million kilometers. And then we scale everything else to the astronomical unit. It's the fundamental distance unit that is used in all of astronomy, not just from the planetary system, but ultimately through distances to the stars, distances to the most distant galaxies. And the distance is out and we can get pretty boring just listing all statistics. So we'll try not to do that too terribly much. Mercury is 4 tenths of an AU out, Venus is 7 tenths of an AU out. So we're kind of nice and symmetrical, 0.4.7 and then us at 1.0. And then Mars out at around 1.5. And close into us, the earth is something of a double planet really. We have the earth and the moon and the moon is a quarter of a million miles away. We won't even deal with that in terms of the astronomical unit. It's very close. And it's kind of interesting thing when we look at all these distances and we are so proud of ourselves for getting from here to the moon. That's all we've gotten. One quarter of a million miles, that's it. The sun is almost 100 million miles away. The earth is as large as it seems to a human being is a terribly small body. 8,000 miles wide, 13,000 kilometers wide. It's only 100th the size of the sun. The sun is 109 times, actually, if you want the real numbers, 109 times the diameter of the earth. The sun is 1-100th of an astronomical unit across. That makes the earth 110,000th of an astronomical unit across. If you had the earth of marble, say 1 centimeter marble about this big, the sun would be a wagon wheel about a football field away. And you'd see it off there in the great distance. Let's use the scale for a little while and we'll start looking at where the other planets are because where Pluto is, you couldn't even see it to be so distant, even on this scale. And eventually we'll have to shrink down the scale to even begin to put the galaxy on our home, our collection of stars. From here on out, we go to Mars at one and a half astronomical units. And then we make a tremendous jump to Jupiter. It's five astronomical units away, five times farther than we are from the sun. And on our earth is a scale of about this big, Jupiter would be about the size of a good size softball, perhaps a little bit larger. Located is 500 million miles from the sun, five astronomical units away. That's five football fields away if you like on this scale. And then we make a tremendous jump out to 10 astronomical units to see Saturn. And then we make a farther jump out. We almost double it again to 19 to get to Uranus. We just keep going farther and farther away. Now we're taking ourselves all the way out to Neptune, which is 30 astronomical units away, which some people think is the sort of the end of the planetary system because again Pluto sometimes is included, sometimes it isn't. It's a curious, strange transition body that is eventually going to tell us a great deal about the planetary system if we can ever get to it. It's the only planet we have not yet visited by spacecraft. We will eventually, it's a long, long journey. It's about 10 years for spacecraft to get out there from here. Moving even fast enough to break free of the gravitational field of the Earth and the gravitational field of the Sun. So it can float forever out there, moving off into the galaxy. Pluto average is 40 astronomical units away. Now there's a lot of consistency in these planets. They all go around the Sun in pretty circular orbits. The Earth, quite circular, a couple that are a little bit off center Mercury and Mars, not terribly much. Pluto is way off center. It goes from the orbit of Neptune all the way to 50 astronomical units out. One of the things that we thought makes it not quite in the same category as the rest of the planets. It's also highly tilted orbit. It takes us out to the outer fringe of the planetary system where we find an enormous number of icy bodies that are called comets. There is a lot of misconception in this business. And people are constantly confusing comets with meteors. Meteor is a small rock, actually a little asteroid for the most horror or a little piece of comet fluff, as we'll see. That hits the Earth's atmosphere and goes streaking across the sky. Comets do not go streaking across the sky. They're orbiting bodies that orbit the Sun on long, skinny orbits to take them way out to the outer part of the planetary system and then close to the Sun. They're made mostly out of ice. We have found and can see now a huge reservoir of these cometary bodies out beyond the orbit of Pluto. In fact many of them share the orbit of Pluto, which means that we could put Pluto out there in this band of icy bodies, which actually has a name. It's called the Kuiper Belt, after Gerard Kuiper, an astronomer of the mid-20th century, who first postulated it. A few of these things work their way in. Their ice balls get heated up by the Sun. Sunlight then, at the pressure, sunlight, the pressure of the wind from the Sun. The Sun is blowing a wind from its surface. Pushes the gas and the released dust and dirt particles in the comet away and you see this long streaming tail that very slowly works its way around the Sun visible night tonight very much as the planets are. So now we've expanded the planetary system into the region of the comets out beyond Pluto. And it turns out that Pluto is one of them. It's not a comet. Don't get confused on that. It's not a comet. It's a transition body. It's a body that, in a sense, tried your planet. But because it lacked a raw material, it couldn't quite make it. And then we've got another huge reservoir that takes us almost halfway the nearest star surrounding the Sun. It's called the Ork Cloud, or RT after it got ork, another astronomer of the mid-20th century. You postulated that one too. That's the reservoir of very long period comets that were created in the planetary system eons ago were tossed out. It's still belonged to the solar system. So the solar system is vastly larger in scale than the planetary system. And now we've got the planets. Where do you end up counting? Pluto, you can count it. You can count the moon. It doesn't matter. We know what they are. It's what they are that counts. Not exactly what you call them and categorize them. And we've got this band of comets outside the orbit of Pluto. And this huge reservoir of comets around the Sun. And then we've got a whole bunch of little bodies in between Mars and Jupiter called the Asteroids. The biggest one is there's not terribly large. It's considerably smaller than the moon. If you roll them all together, you might have gotten an Earth or something like a terrestrial planet. It's kind of fair to call them a terrestrial planet collectively. And if you're walking on one, the biggest one, certain names, Sirus, certainly feel like you work, except you'd be a lot lighter. So we now have at least something of an inventory here of the planetary system. And we will over the course of this course over this set of lectures be looking at all of them in fine detail, beginning with the Earth in the middle, looking outward into the sky, the context of the orbits of the planets around the Sun, how they move, and then in detail about their physical nature and eventually where they all came from. And eventually, where they're all going to go, too, because nothing is permanent. Everything is born and everything dies. And part of astronomy is learning how things are born and how things die, where we came from and where we're going to go. But we have to put the solar system, the solar system, the planetary system, make no sense. If you can't put it into a broader context, the Sun is a star. Now generally, the common phraseologies is talk about the Sun and the stars. And we talk about stars, particularly, you're talking about all the other ones out there. But keep in mind, always, that the Sun is just one of their number. You've got a side on a nice clear night out in the country with no moon. The average human eye can see maybe 2,000, 2,500 stars. Over the course of the entire sky, the entire night, if you go around the globe, there are probably around 8,000 that are visible to the human eye, depending upon how old you are and what your level of light pollution is. This is just the beginning. They all look pretty much the same when you stand outside a night and look at them. They just appear as little points of light. But look carefully. Look very carefully. And you see colors. There's some that are a little reddish. There's some that are kind of orange. And some take on a little bit of a blue tint that reflect their temperatures. The blue stars hot, the red stars cool. The Sun is often considered as kind of a yellow white star. It has that kind of cast to it. And temperature of about 6,000 degrees Kelvin. I hate to introduce a new temperature scale to you because this is going to be great. In the United States, we have to deal with Fahrenheit and Celsius are centigrade. And in Europe and Canada and the rest, people stick with centigrade. It's a pretty simple system. Centigrade goes from zero to freezing water, 100 to boiling. But then you go down and down and down to negatives until you get down to a point that's called absolute zero. It's minus 273 degrees Kelvin centigrade. So we just start at zero and work our way up. That's all in centigrade units. And the sun in that scale is about 6,000 centigrade degrees above absolute zero. It puts things in sort of a context for you. The stars range in temperature from not much hotter than that of a self-cleaning oven, believe it or not, about 1,000 degrees or cooler. So cool you can't even see them with a human eye. To a maximum of close to a million, it's a spectacular range. In dimension, there are stars about the size of Manhattan. And there are stars the size of the orbit of Saturn in another spectacular range. Stars little light things, perhaps not much bigger than Jupiter and mass. If you want to stretch the definition of a star, which it really requires, you see at some point, we have difficulty in even defining what a star is. Sometimes I like to define it as body that at some point in its career goes through this nuclear fusion process. And you have stars that are 100 times as massive as the sun. The sun we know is going to die out as a little body, the size of the Earth. Sometime over the next several billion years, you go to stars that are much more massive than the sun. They blow up, they explode. The sun can't do that. One of the nice things that we have learned, the sun cannot explode. But some of them do. And the ripples that the exploding stars spread throughout the universe help create new stars. They provide the chemical elements that created us. It's getting a little bit ahead of the story, however. Let's look back at the stars and a little bit at the scale. The nearest star as close as it looks, this star called Alpha Centauri. And here you get into another argument because Alpha Centauri is a triple star. Two of them go around an orbit about every 80 years, very close together. The brighter, very much like the sun, rather curious, the interesting coincidence. And then there's a little one a little bit farther away, a couple of maybe 10,000 astronomical units away from the double, which is called Proxima Centauri. And that's a little bit closer to us. But let's not quibble about this. Call it Alpha Centauri. How far away is it? It gets difficult to use astronomical units at this point. The star is about 270,000 astronomical units away. We need a new scale. You want to match your distance scale to the things being measured. Otherwise you wind up with little bitty numbers or you wind up with enormous numbers. So let's introduce the light year. We'll scale it back to the astronomical unit in a minute. The light year is the distance, not a unit of time. It's commonly taken as unit of time. No, it's a unit of distance. It's the distance array of light will travel in one year. Always that hard to appreciate. Light moves at a speed of 186,000 miles per second, 300,000 kilometers per second. That's eight times around the Earth, one second. Here to the moon, in a second and a half, from the Sun to here in eight minutes. We could say the Sun is eight light minutes away. Pluto is several light hours away. Interesting aside, if you visited Pluto when you want to talk to the folks back home, you start talking and your telephone message doesn't reach back home for another four hours, long way to go. That is, we see things as they were in the past. You do not see the Sun as it is now. You see it as it was eight minutes ago. The near stars for light years away, it's about 270,000 astronomical units. The light year and other units similar to that become the standard for interstellar use and even for use across the whole universe for that matter. One of the more common questions that I will get is, don't that bother you? You're looking at stars and near stars for light years away you're seeing as it was four years ago. What's it doing now? It could blow up, which you can't. It can't. Relax, it can't. It could blow up and you wouldn't know it for four years and yes, that's absolutely right and I don't care because I can't know anything until light gets to me anyway. So my now is when the light gets to me. Now if you want to walk around your house or your office in a days, think about this. You're looking at your colleagues or your family. Light travels about a foot in a trillionth of a second. You see everybody around you as they were, a few trillions of a second ago. You don't see them as they are now and the people farther away from you, you see more farther into the past. So you're not looking at anything in that context, that sense of now. Now is when the light arrives. None of this bothers us very much. We simply ignore the fact that there's a light travel time. You see things as they are when they get to us. And we're looking at all the stars in the sky at different distances and we see them as they were in the distant past. All the different stages in their ages. And that's really not a problem because stars live for far longer than that little light travel time anyway. They live for millions and billions of years. Who cares about a few thousand here and there? Just like when you're looking at your colleagues, if you trillions of a second in the lifetime of a human being doesn't mean anything at all. So it really matters not. We can forget the whole thing otherwise. We wander around like this wondering, you're looking at everybody in the past. Can drive you crazy after a little while. So we forget about it. For a light years, it's a long way to go. It's why we haven't gone to the stars and why it's going to be very, very difficult to go. The distances are spectacular. You can't even use this Earth as a marble scale. Let's take the sun as a marble now. We'll shrink it down from the wagon wheel down to the marble. And the Earth is about that big. It's about as big as a grain of sand on that scale. The nearest star is 170 miles, about 250 kilometers away. The scale is really to take small marbles and put them in the major cities of our country. Now start them rolling around because stars move relative to each other. The sun moves about its own diameter in a day. So you have these marble shifting a diameter in a day and they're separated by 100 miles, 200 miles, maybe more. Do you think they're going to crash into each other? I don't think so. We're very safe out here. The separations are spectacular compared to the sizes. We live in a very safe part of the galaxy. Nothing terribly dangerous around us. Stars aren't going to collide into us as thick as they look in the nighttime sky. It is a grand illusion. The space between them is not empty by the way. The space between them is filled. It's perhaps a bad word because it's almost a vacuum but not quite, but it is filled with a thin, dusty gas. You can see that in the Milky Way. We've lost the Milky Way in our time. You go into any city, almost any village for that matter and the lights are so bright that you can't see the dark skies anymore, but your grandparents saw them. You walk out in the backyard and see this wonderful band of light going across the sky. Milky Way is the disc of our galaxy. All of the stars that you see at night and 200 or more billion others are spread into a thin disc that is 100,000 light years across. Now we're not talking three or four or ten light years. We're talking 100,000. The sky is really in three dimensions. You lose that sense entirely when you look up there at the heavens. All the stars look at the same distance. All the planets look the same distance away. No, the planets are closed. Shining by reflected light. The stars are self-illuminating, shining by thermonuclear reactions. All at different distances. Some of the brighter ones that you see are only a few tens of light years away. Others like the great star, Denib, many of the others that you see are maybe a thousand light years away or more. You lose telescopes. You can see them vastly farther than that. We've learned how we're structured. The thin disc. And we're sort of out at the edge. Now the disc doesn't have a real edge on it. It just gradually fades away. But the majority of stars are in this disc about 100,000 light years across. And we're roughly two thirds or three quarters of the way out to the edge. Now imagine yourself in the middle of this disc and you look around and you see the disc around your head. You can only see the individual stars within a few hundred light years. Maybe a thousand light years of you and all the rest gradually blend into a thick band of light that surrounds you. The Milky Way, which is a thick mythology, a wonderful mythology about it. The pathway of the souls on their way to heaven, celestial rivers bringing the water to irrigate our crops. And Galileo, when he put his first telescope on it back there in 169, 1610, oh stars. It's just stars. Two hundred billion of them in a disc, a thousand light years across. And we're just one of them. Very special one because we are part of it and we can look out and see it. We can look out and comprehend it. Up until 1920, we thought our galaxy was the only one. Oh, there were inklings that maybe we weren't really alone. They go back a couple hundred years before that. The astronomers began to see little fuzzy things. It tells the technical term, little fuzzy thing, little fuzzy blobs out there in space. And some of them showed structure. Some of them led spiral arms, which our galaxy does. We didn't know that they were other galaxies until Edwin Hubble, after whom the Hubble Space Telescope was named, was able finally to resolve one of these things in individual stars. And if they were anything like the stars in our own galaxy, these things had to be terribly far away. In north, northern autumn evenings, you see the great constellation and drometer rising up above the eastern horizon. And if you've got sharp eyes, you can see a little faint fuzzy blob in it. That fuzzy blob is the andromeda galaxy, just friendly name, M31, it goes by a variety of names. Most distant thing you can see with the naked eye, without a telescope. Two million light years away, a galaxy very much like our own. And then you look out farther and you see more and more and more of these. Several years ago, the director of the Hubble Space Telescope said, let's look at a blank area of sky and see what turns up. Now the Hubble Space Telescope burns up money at a pretty fierce rate. It is very difficult to get time on the Hubble Space Telescope. And here the director wants to take 100 hours worth of this precious time and look at something that's blank. He figured he'd get something. Oh, he did. And that little dot, which is only a tenth the angular size of the full moon. Hubble Space Telescope has a very small field of view. 3,000 galaxies showed up. 3,000. If you could replicate that across the sky, it would be possible to see over a trillion galaxies from the earth, each one similar to our own, with maybe somewhere around 100, 200, 300 billion stars. Not all of them are like some of them are big, some of them are small. If you want to count the smaller ones, they're vastly more than a trillion within the scale of the universe we can actually see. Vast numbers of them, clumping, clustering together, all of them coming out of a concept that we refer to as the Big Bang. We look at the velocities of these galaxies, which we can easily find. We've been looking at this over the last century or more. And we find that with the exception of a couple of galaxies that are close to us, they're all moving away from us. And more remarkably, they're all moving away from us with speeds that are absolutely and directly proportional to their distances. You double the distance, you double the speed. And the speeds go up and up and up till they approach the speed of light. There are some of these things are going away to enormous velocities from us. And the only explanation that seems to fit all of the data is that at some point, numbers have been pretty well pinned down to about 13 billion years. Somewhere around 13 billion years ago, the universe was in a hot dense state. You can't say it was out there. You can't say it was like a P. You can't, you can just say that all the matter was crushed together into a hot dense state from which it began to expand. That's not an explosion. It began a sudden and violent expansion. And within that expansion, the galaxies which accumulated into clusters of galaxies, which formed stars, all of this expanded away and we're seeing the remnants of the expansion. Where did the Big Bang starts? Start right here. It's in this room. Everything is growing. Now, don't get the wrong idea. It doesn't mean that the Earth is expanding or that we're expanding. Well this is held together by the glue of gravity, which will be the subject of a whole lecture. This wonderful concept of how things are put together. It means the separation between large scale things. It's actually an expansion of space. It's not an explosion. It means that space itself is getting bigger and bigger and the galaxies are just floating along with it. The separation is increasing. Why had happened or how it came together? Nobody knows. We can speculate, perhaps, but there are no hard data on how all of this began. We're seeing the aftermath of it. And we're one part of it. We're a very important part of it. Everything affects everything else in this system. Not just through gravity, but through radiation, through light. We're all tied together. The whole universe, universe, one, it means one thing. And we're not separated from it. We are the third planet out from the Sun. From an ordinary star. It's a very special star in our view because it's ours. It keeps us alive. Everything that we have comes from the Sun, eventually. After the Big Bang galaxies formed, stars formed within the galaxies. As stars age, they create chemical elements within them. After all, the Sun is making helium out of hydrogen. Eventually, it'll make carbon and oxygen out of helium. More massive stars can go farther yet. They can even create iron in their cores. Stars like this explode. Even stars like the Sun will create additional chemical elements, launch them to the surface, perhaps, out into interstellar space. Stars recycle themselves. The Sun will lose about half of its matter back. And the interstellar space and more massive stars will lose even more. All of that becomes fodder for the creation of new stars. New stars are born from the gases of interstellar space. But these gases have been contaminated by heavy elements from the deaths of previous generations of stars. The galaxy is around 13 billion years old. It didn't take long to form galaxies after the Big Bang. It happened very, very, very quickly. Reasons we still don't entirely understand. And then the deaths of stars began to increase heavy element content within the galaxies because the Big Bang created nothing but hydrogen and helium, the lightest of the things. The Sun came along five billion years after, excuse me, all five billion years ago. Some seven billion years or so after the creation of the universe, eight billion years. So we had about eight billion years worth of stellar death to populate the gases of interstellar space with heavy elements. The Sun and the Earth were born from that. The Earth is a distillate then of the deaths of exploded stars. So all of these little points out there are not just... It's not just the beautify the sky. They all have to do directly with us. And through the course of these lectures will look more and more and more at what they are and at our place among them. Thank you. This ends lecture one."
+}
