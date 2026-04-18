@@ -6,7 +6,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 
 # Load models once at the top level
-stt_model = whisper.load_model("base")
+stt_model = whisper.load_model("tiny")
 embed_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def transcribe_and_embed(audio_path):

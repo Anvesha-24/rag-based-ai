@@ -1,5 +1,5 @@
 streamlit
-whisper
+openai-whisper
 pandas
 numpy
 scikit-learn
@@ -7,3 +7,5 @@ sentence-transformers
 groq
 joblib
 python-dotenv
+torch
+torchvision
