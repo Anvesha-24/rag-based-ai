@@ -1,0 +1,9 @@
+streamlit
+whisper
+pandas
+numpy
+scikit-learn
+sentence-transformers
+groq
+joblib
+python-dotenv

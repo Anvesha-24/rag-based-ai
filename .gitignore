@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Data & Large Files (Don't upload these, they are generated locally)
+audios/
+jsons/
+*.joblib
+*.mp3
+*.mp4
+
+# OS specific files
+.DS_Store
+Thumbs.db

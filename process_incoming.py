@@ -1,84 +1,43 @@
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-import requests
+from sentence_transformers import SentenceTransformer
+from groq import Groq
 import joblib
+import os
+from dotenv import load_dotenv
 
-def create_embedding(text_list):
-    r = requests.post("http://localhost:11434/api/embed", json={
-        "model": "bge-m3",
-        "input": text_list
-    })
-    try:
-        embedding = r.json().get("embeddings")
-    except:
-        print("Embedding API returned invalid JSON:", r.text)
-        return None
-    return embedding
+load_dotenv()
 
+# Use the same model as stt.py for consistency
+embed_model = SentenceTransformer('all-MiniLM-L6-v2')
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-def inference(prompt):
-    r = requests.post("http://localhost:11434/api/generate", json={
-        "model": "llama3.2",
-        "prompt": prompt,
-        "stream": False
-    })
+def run_rag_query(incoming_query):
+    if not os.path.exists('embeddings.joblib'):
+        return "Database not found. Please process a lecture first."
+
+    df = joblib.load('embeddings.joblib')
     
-    try:
-        data = r.json()
-    except:
-        print("Generate API returned invalid JSON:", r.text)
-        return None
+    # Search logic
+    query_vector = embed_model.encode([incoming_query])
+    similarities = cosine_similarity(np.vstack(df['embedding']), query_vector).flatten()
+    top_indices = similarities.argsort()[::-1][:3]
+    context = df.iloc[top_indices].to_json(orient="records")
+
+    prompt = f"""
+    Use these transcript chunks to answer the student. 
+    Include timestamps in your answer.
     
-    print(data)
-    return data
+    DATA: {context}
+    QUESTION: {incoming_query}
+    """
 
-
-df = joblib.load('embeddings.joblib')
-
-incoming_query = input("Ask a Question: ")
-
-question_embedding = create_embedding([incoming_query])
-if question_embedding is None:
-    print("Failed to create embedding. Exiting.")
-    exit()
-
-# find cosine similarities
-similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding[0]]).flatten()
-print(similarities)
-
-max_idx = (similarities.argsort()[::-1][0:3])
-print(max_idx)
-new_df = df.iloc[max_idx]  # FIXED: use iloc instead of loc
-
-prompt = f'''
-I am teaching astronomy. Here are the most relevant video subtitle chunks, each with
-title, start time, end time, and text:
-
-{new_df[["title", "start", "end", "text"]].to_json(orient="records")}
-
--------------------------------------------------
-User query: "{incoming_query}"
-
-You must answer:
-1. Where in the video this topic is taught (timestamps)
-2. How much content is taught there
-3. Guide the student to the correct timestamp
-If the question is unrelated, say:
-"I can only answer questions related to the astronomy course."
-'''
-
-with open("prompt.txt", "w") as f:
-    f.write(prompt)
-
-res = inference(prompt)
-
-if res is None or "response" not in res:
-    print("Model returned no valid response. Full output:", res)
-    exit()
-
-response = res["response"]
-print(response)
-
-with open("response.txt", "w") as f:
-    f.write(response)
+    try:
+        chat_completion = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model="llama-3.3-70b-versatile",
+        )
+        return chat_completion.choices[0].message.content
+    except Exception as e:
+        return f"Error connecting to Groq: {e}"
